@@ -12,3 +12,4 @@ elif float(Bill_5) == 30:
     print(f"Only one person pays")
 else:
     print(f"We will all pay")
+    
